@@ -1,0 +1,7 @@
+{
+  "name": "Efren Ortiz Real Estate",
+  "description": "Luxury real estate portfolio and services website for Efren Ortiz, specializing in residential and investment properties in Homewood, IL and the Chicago Southland area.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
